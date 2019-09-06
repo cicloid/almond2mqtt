@@ -4,7 +4,7 @@ import (
 	"log"
 	"os"
 
-	"github.com/nathanielc/almond2mqtt"
+	"github.com/cicloid/almond2mqtt"
 )
 
 func main() {
